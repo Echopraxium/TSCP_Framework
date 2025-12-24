@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WWjLwEY/AWg=",
+  "success": true,
+  "projectFilePath": "E:\\_00_Michel\\_00_Lab\\_00_GitHub\\TSCP-Framework\\TSCP.CLI\\TSCP.CLI.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michel\\.nuget\\packages\\fsharp.core\\10.0.101\\fsharp.core.10.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}

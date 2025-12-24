@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>TSCP.Core</name></assembly>
+<members>
+<member name="M:TSCP.Core.OperationUtils.analyzeSystemicCollision(TSCP.Core.FrameworkModel,System.String,System.String)">
+<summary>
+ Analyse la collision entre deux instances M0 via leurs ancêtres M2
+</summary>
+</member>
+<member name="M:TSCP.Core.OperationUtils.calculatePhaseDistance(TSCP.Core.TscpObject,TSCP.Core.TscpObject)">
+<summary>
+ Calcule la Distance de Phase entre deux objets (0.0 = Identique, 1.0 = Rupture totale)
+</summary>
+</member>
+</members>
+</doc>

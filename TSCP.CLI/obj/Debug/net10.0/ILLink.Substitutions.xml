@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="TSCP.CLI">
+    <resource name="FSharpSignatureData.TSCP.CLI" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.TSCP.CLI" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.TSCP.CLI" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.TSCP.CLI" action="remove"></resource>
+    <resource name="FSharpOptimizationData.TSCP.CLI" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.TSCP.CLI" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.TSCP.CLI" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.TSCP.CLI" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.TSCP.CLI" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.TSCP.CLI" action="remove"></resource>
+  </assembly>
+</linker>
